@@ -1,0 +1,22 @@
+Développeur Backend Junior — Lyon
+
+Startup en croissance dans le secteur de la logistique recrute un développeur backend junior pour renforcer son équipe technique.
+
+Stack technique :
+- Python (FastAPI ou Django)
+- PostgreSQL
+- Git / GitHub
+- Notions de Docker appréciées
+
+Profil :
+- Première expérience professionnelle ou alternance en développement backend
+- Autonomie, curiosité et envie d'apprendre
+- Bac+3/5 en informatique ou équivalent
+
+Ce que nous offrons :
+- CDI à temps plein
+- Locaux à Lyon Part-Dieu
+- Tickets restaurant + mutuelle
+- Possibilité de télétravail 1 jour/semaine après la période d'essai
+
+Pas de fourchette salariale affichée — à discuter selon profil lors de l'entretien.

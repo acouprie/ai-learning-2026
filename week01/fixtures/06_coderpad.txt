@@ -1,0 +1,65 @@
+Détails
+
+Date de publication
+
+22 avril 2026
+CDI
+396 Rue du Mas de Verchant, 34000 Montpellier, France
+Ouvert au télétravail total
+Voir l'offre
+Descriptif du poste
+
+CoderPad est à la recherche d’un·e développeur·se pour rejoindre son équipe tech en France. Ce poste, en télétravail à temps plein, est rattaché au director of engineering EMEA.
+
+Que fait un développeur full-stack à CoderPad ?
+
+​​+4 000 clients dans 165 pays. Des milliers d'entretiens techniques envoyés chaque jour - du live coding aux évaluations automatisées. L'équipe tech de CoderPad construit la plateforme de référence pour évaluer les compétences techniques : réaliste, fiable, et pensée autant pour les recruteurs que pour les candidats.
+
+Notre mission : que chaque recruteur puisse embaucher avec confiance, et que chaque candidat reparte avec une expérience juste.
+Ce que tu feras
+
+    Concevoir et développer de nouvelles fonctionnalités full-stack (React / TypeScript côté front, Java, Node.js ou Ruby côté back) en collaboration avec le PM et le designer.
+
+    Participer aux décisions d'architecture et de design technique au sein de l'équipe.
+
+    Écrire des tests automatisés et assurer la qualité du code via la revue de code.
+
+    Déployer et monitorer tes propres features en production (GitLab, AWS, Kubernetes).
+
+    Contribuer à l'amélioration continue des pratiques d'ingénierie de l'équipe.
+
+
+
+
+
+    3+ ans d’expérience en développement avec des compétences techniques solides.
+
+    Bonnes aptitudes en communication et organisation.
+
+    Maîtrise d'au moins un langage back-end (Java, Ruby, Node.js), d'un framework front-end moderne (idéalement React) et du SQL. Il n’est pas nécessaire de maîtriser toutes les technologies dès le début.
+
+    Niveau d'anglais professionnel (écrit et oral). Excellente maîtrise du français requise.
+
+    Fortes valeurs et culture d’entreprise, transparence, autonomie et bienveillance
+
+    Télétravail complet mais si tu es sur Montpellier, tu peux aussi profiter de la vie au bureau, des afterworks, etc.
+
+    Carte ticket restaurant Swile 9€ - pris en charge à 50%
+
+    Congés payés en plus : le jour de ton anniversaire + les fériés américains (10 jours env.)
+
+    Congés paternité/second parent pris en charge à 100% pendant 12 semaines (si un an d’ancienneté)
+
+    Stock options avec un vesting sur 4 ans
+
+    Rémunération : Entre 40 000 € et 50 000 € brut/an selon l’expérience
+
+    Introduction avec Mathilde, membre de l’équipe RH (20 min)
+
+    Test technique en ligne CoderPad (1à 2h)
+
+    Entretien technique avec 2 membres de l’équipe tech (1h30)
+
+    Une série d’entretiens avec des personnes des autres équipes (1h30)
+
+    Discussion avec Amanda, notre CEO (30 min, en anglais)

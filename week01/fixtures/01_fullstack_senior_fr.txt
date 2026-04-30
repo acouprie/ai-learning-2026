@@ -1,0 +1,18 @@
+Développeur Fullstack Senior — Paris (hybrid)
+
+Nous recrutons un développeur Fullstack Senior pour rejoindre notre équipe produit en forte croissance.
+
+Profil recherché :
+- 5+ ans d'expérience en développement web
+- Maîtrise de React, TypeScript et Node.js
+- Bonne connaissance de PostgreSQL et Redis
+- Expérience avec Docker et CI/CD (GitHub Actions)
+- Connaissance de AWS (EC2, S3, RDS) appréciée
+
+Responsabilités :
+- Concevoir et développer de nouvelles fonctionnalités sur notre plateforme SaaS B2B
+- Participer aux revues de code et au mentoring de développeurs junior
+- Contribuer à l'architecture technique du produit
+
+Rémunération : 50 000 € – 60 000 € brut annuel selon profil
+Localisation : Paris 11e, 3 jours de télétravail par semaine

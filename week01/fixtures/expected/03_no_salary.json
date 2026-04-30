@@ -1,0 +1,8 @@
+{
+  "title": "Développeur Backend Junior",
+  "seniority": "Junior",
+  "skills": ["Python", "FastAPI", "Django", "PostgreSQL", "Git", "Github", "Docker"],
+  "salary_currency": "",
+  "salary_min": "",
+  "salary_max": ""
+}

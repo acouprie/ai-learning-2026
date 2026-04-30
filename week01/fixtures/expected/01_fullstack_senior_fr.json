@@ -1,0 +1,8 @@
+{
+  "title": "Développeur Fullstack Senior",
+  "seniority": "Senior",
+  "skills": ["React", "TypeScript", "Node.js", "PostgreSQL", "Redis", "Docker", "GitHub Actions", "AWS"],
+  "salary_currency": "EUR",
+  "salary_min": 50000,
+  "salary_max": 60000
+}

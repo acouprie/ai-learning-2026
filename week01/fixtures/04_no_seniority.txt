@@ -1,0 +1,15 @@
+Mission freelance — Intégration API & automatisation (Paris ou remote)
+
+Cabinet de conseil RH recherche un développeur freelance pour une mission de 2 à 3 mois.
+
+Contexte : Automatiser l'import de candidatures depuis plusieurs jobboards (Indeed, LinkedIn, Welcome to the Jungle) vers notre ATS interne (Recruitee). Développer des webhooks et des scripts de synchronisation.
+
+Compétences requises :
+- Bonne maîtrise de Python ou Node.js
+- Expérience avec les APIs REST (OAuth2, webhooks)
+- Connaissance des formats JSON/CSV
+- Capacité à travailler en autonomie avec une documentation technique minimale
+
+Rythme : ~3 jours/semaine
+Tarif : 550 € – 650 € HT/jour selon expérience
+Démarrage : dès que possible

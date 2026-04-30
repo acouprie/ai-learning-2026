@@ -1,0 +1,26 @@
+Détails
+
+Date de publication
+
+15 décembre 2025
+CDI
+Paris, Ile-de-France, France, 75001
+Ouvert au télétravail total
+Voir l'offre
+Descriptif du poste
+
+As a Software Engineer at Rail Europe, you will be a key contributor to our engineering team, responsible for:
+
+    Developing and Delivering Solutions: Designing, developing, and delivering high-quality software functionalities, ensuring code quality through robust testing (unit and integration tests).
+
+    Full Lifecycle Participation: Actively participating in all stages of the project implementation lifecycle, including agile events, testing, deployment, monitoring, and architectural discussions.
+
+    Problem Solving & Optimization: Contributing to identifying and solving complex technical challenges, including aspects related to routing, data aggregation, scaling, and application performance.
+
+    Technical Excellence: Producing quality deliverables for both business and technical improvements, writing clear technical specifications, and adhering to industry best practices for clean, modular, and maintainable code.
+
+    Collaborative Contribution: Partnering closely with engineers, Engineering Manager, Product Managers, and other stakeholders to drive consensus and deliver cohesive solutions.
+
+    Knowledge Sharing & Growth: Continuously learning, sharing your knowledge with your team, and contributing to a culture of continuous improvement and engineering excellence.
+
+    Innovation & Engagement: Taking part in our monthly hack day!

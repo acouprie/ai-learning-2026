@@ -1,0 +1,8 @@
+{
+  "title": "Développeur Freelance",
+  "seniority": "Mid",
+  "skills": ["Python", "Node.js", "APIs REST", "OAuth2", "Webhooks", "JSON", "CSV", "Intégration API"],
+  "salary_currency": "EUR",
+  "salary_min": 550,
+  "salary_max": 650
+}
