@@ -1,0 +1,8 @@
+{
+  "title": "Data Engineer",
+  "seniority": "Mid",
+  "skills": ["Python", "SQL", "Apache Spark", "Databricks", "dbt", "Airflow", "Snowflake", "BigQuery", "Redshift", "Kafka", "Terraform"],
+  "salary_currency": "USD",
+  "salary_min": 90000,
+  "salary_max": 115000
+}

@@ -1,0 +1,8 @@
+{
+  "title": "Développeur·se Full-Stack",
+  "seniority": "Mid",
+  "skills": ["React", "Typescript", "Java", "Node.js", "Ruby", "GitLab", "AWS", "Kubernetes"],
+  "salary_currency": "EUR",
+  "salary_min": 40000,
+  "salary_max": 50000
+}

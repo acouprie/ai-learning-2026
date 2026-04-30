@@ -1,0 +1,21 @@
+Data Engineer — Remote (EU timezone)
+
+We're looking for a mid-level Data Engineer to join our data platform team and help us scale our analytics infrastructure.
+
+Requirements:
+- 3+ years of experience in data engineering
+- Strong proficiency in Python and SQL
+- Experience with Apache Spark or Databricks
+- Hands-on experience with dbt and Airflow
+- Familiarity with cloud data warehouses (Snowflake, BigQuery, or Redshift)
+- Knowledge of data modeling best practices
+
+Nice to have:
+- Experience with Kafka or other streaming platforms
+- Terraform for infrastructure as code
+
+What we offer:
+- Salary range: $90,000 – $115,000 USD per year
+- 100% remote within EU timezone (UTC+0 to UTC+3)
+- Stock options
+- 30 days PTO

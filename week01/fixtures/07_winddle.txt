@@ -1,0 +1,69 @@
+Détails
+
+Date de publication
+
+6 mars 2026
+CDI
+5 Rue Martel, 75010 Paris, France
+Télétravail régulier
+Voir l'offre
+Descriptif du poste
+Le projet: plus d’efficacité, moins de gaspillage
+
+Winddle est une startup dans le domaine de la supply chain, un domaine riche en challenges technique - gros volumes de données avec des attentes en performance et fiabilité, sujets métiers/fonctionnels profonds et qui est en pleine transformation pour faire face aux événements récents et aux défis de demain.
+La mission
+
+Tu rejoindras l’équipe Produit, aujourd’hui constituée du CTO, d’un lead-dev RoR et d’un lead dev JS, d’une PO, d’une responsable UX, d’une responsable design system et de 4 autres développeurs.
+
+Tu travailleras sur des sujets variés à tous les niveaux de la stack, seul ou en binôme, sur de tickets touchant à l’ensemble de la stack et à l’ensemble du périmètre fonctionnel.
+
+Nous travaillons aujourd’hui principalement en Kanban avec des chantiers plus long terme sous forme de “Shape-Up” - nous faisons 3 à 4 grosses releases par an et nous shippons tous les jours des petites améliorations ou des bugfixes.
+FAQ: développeur chez Winddle
+J’y connais rien / je m’intéresse pas à la Supply!
+
+Pour un développeur, Winddle est avant tout un terrain de jeu massif avec un peu tous les types de problèmes que peut rencontrer une application web - UX complexe (pour faciliter la vie des utilisateurs !), performance, architecture logicielle et infrastructure, etc.
+
+Nous ne sommes pas expert Appro, Logistique ou Achat, ou tout autre métier autre que le notre (dev :)) et tu verras que ce domaine, une fois le vernis du vocabulaire/jargon est clarifié, est finalement plein de sens commun car finalement, il s’agit simplement de bouger des marchandises d’un point A à un point B.
+
+Et pour tous les endroits où cela devient très “métier”, libre à toi de creuser, en tout cas, il y aura toujours quelqu’un côté CSM, Sales ou Produit pour te partager ce qu’on sait du sujet (y compris nos théories, pour les aspects les plus mystérieux…).
+Quelle est la place du dev. chez Winddle?
+
+Une bonne partie des process Supply chez nos clients reposent sur la plateforme Winddle: la stabilité de l’application est primordiale pour garantir notre crédibilité et l’engagement des clients à nos côtés (petit spoil: notre taux de churn est incroyablement bas ;)).
+
+L’exigence liée à la qualité des développements est donc importante: concrètement, nous faisons tout notre possible pour que de la conception à la mise en production, chaque étape soit l’occasion d’affiner la qualité de ce que nous produisons, avec un focus tout particulier sur la non-régression. Tout est testé (automatiquement, et manuellement, par le dev, les reviewers et parfois d’autres équipes), tout est relu par quelqu’un d’autre (en général, 2 reviewers + copilot par PR), et nous préférons décaler une mise en production d’une semaine que de merger quelque chose sur lequel nous avons des doutes.
+
+Chez Winddle, le métier de développeur est central et nous prenons toute la mesure de cette responsabilité: notre focus est sur l’amélioration continue de nos processus et outils de développement, la maintenabilité sur le long terme du code, la performance pour les volumes de nos clients et la satisfaction de ces utilisateurs finaux sans qui tout cela n’aurait aucun sens.
+
+Beaucoup d’attentes donc, mais tu verras que l’atmosphère au sein de l’équipe est bienveillante, que l’entraide est permanente, et que s’attaquer à une codebase structurée et correctement testée, c’est aussi souvent du petit bonheur..!
+Et l’IA?
+
+Le sujet est encore assez nouveau mais Winddle propose une licence Github Copilot à tous les devs et nous avons commencé en Juin 2025 à tester Claude Code, avec pareil un abonnement pour tous les membres de l’équipe. Nous avons aussi fait des tests avec CodeRabbit pour la partie revue des PRs. Dans l’ensemble, c’est très positif mais il y a encore de nombreux sujets à discuter car il y a clairement des avantages et inconvénients!
+
+Et bien entendu, le produit commence à intégrer des fonctionnalités basées sur les LLMs, c’est aujourd’hui une nécessité du marché et niveau technique, ce sont des challenges nouveaux donc pourquoi pas! (note: la valeur ajoutée pour les utilisateurs reste encore à démontrer ;))
+L’onboarding?
+
+Pour faciliter les premières semaines et la prise de repères (process, vocabulaire, …), nous avons l’habitude d’onboarder tous les nouveaux venus, peu importe leur niveau d’expérience technique, avec un ensemble d’ateliers qui couvrent les sujets métiers (qu’est-ce que la supply chain, qui sont les différents acteurs et comment ils utilisent l’outil, les différentes notions manipulées par Winddle…), mais aussi l’architecture technique, l’infrastructure et tout ce qui est nécessaire pour être efficace rapidement. Honnêtement c’est à la carte, nous sommes conscient qu’il y a beaucoup à apprendre pour être à l’aise avec le fonctionnel et donc si tu souhaites te concentrer sur la tech dans un premier temps et voir les enjeux client plus tard, c’est possible. A l’inverse si c’est essentiel pour toi de comprendre la finalité en premier, alors avec plaisir pour organiser des workshops avec nos CSM ou responsable UX pour directement voir des cas d’usage client!
+
+Et comme tout le reste dans l’équipe Produit, l’onboading est en amélioration continue!
+Le cadre de travail?
+
+Nous avons des locaux au cœur de Paris, dans le 10ème arrondissement. Les parisiens (une partie de plus en plus petite de l’équipe ;) nous cherchons à inverser cette tendance car même si le travail de dev est parfois plus efficace seul avec ses écouteurs, il y a aussi toutes les fois où un coup de main aurait été le bienvenue et être à 2 pas de la personne qui peut aider réduit fortement cette friction) sont en télétravail partiel (2 jours au bureau par semaine), les non parisiens sont en full-remote. Discutons-en si c’est un sujet !
+
+Aussi, chez nous, le vendredi, tu peux lâcher tes tickets en cours pour prendre le temps de travailler sur d’autres sujets - se former, tester de nouvelles librairies, de nouvelles UX, ou passer un peu de temps supplémentaire à refactorer un morceau de code un peu douteux qui traînait ici ou là ;)
+La stack
+
+    Rails 8, Ruby 4
+
+    Vue.JS 3 (webpack), Bootstrap 5.3 (migration Tailwind en cours)
+
+    MySQL 8
+
+    Design system sur Storybook, Figma
+
+    Ops: Terraform + AWS (ECS / Docker, RDS, S3…) + Wiz
+
+    APM: Datadog, Elasticsearch, Sentry
+
+Perspectives
+
+Nous cherchons quelques profils qui pourront prendre des responsabilités d’encadrement d’équipe technique - si c’est quelque chose qui t’intéresse, n’hésite pas à nous en parler! Il y a aussi des ponts fort avec la partie relation client au travers du rôle d’intégrateur technique, car nous restons un éditeur et sans intégration forte chez nos clients, Winddle ne sert pas à grand chose!

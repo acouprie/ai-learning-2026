@@ -1,0 +1,62 @@
+Détails
+
+Date de publication
+
+24 novembre 2025
+CDI
+10 Rue Saint-Fiacre, 75002 Paris, France
+Télétravail régulier
+Voir l'offre
+Descriptif du poste
+
+Role opened in our Paris Headquarter or Biarritz, Bordeaux, Nantes, La Rochelle, Lyon, Marseille, hubs.
+
+As a Back End Engineer you are responsible for designing, developing, and maintaining back-end components of our software applications within an agile team environment (Shapeup).
+This position involves working closely with Engineering Managers, Product Managers, Designers, and other engineers to implement features, improve system architecture, and ensure high-quality deliverables that meet both technical and business requirements.
+
+The Back End Engineer will be part of a cross-functional squad and will contribute to technical decisions while maintaining high standards of code quality and performance.
+
+Learn more about our Tech Team through our Medium
+
+Key Responsibilities
+Technical Development
+
+    Design, develop, and maintain scalable solutions
+
+    Write clean, maintainable, and well-tested code following team standards and best practices
+
+    Participate in code reviews and provide constructive feedback to team members
+
+    Debug production issues and implement robust solutions
+
+    Contribute to technical documentation and architecture decisions
+
+    Implement and maintain APIs and database schemas
+
+    Build responsive and performant user interfaces
+
+    Participate in agile ceremonies and technical planning sessions
+
+Collaboration and Innovation
+
+    Actively participate within an autonomous mission team (PM, Designer, Engineering manager) to clarify priorities and user needs.
+
+    Contribute to technical discussions and architecture decisions
+
+    Participate in squad rituals and team meetings
+
+    Handle support requests and bug fixes within agreed SLAs
+
+Quality & Best Practices
+
+    Write unit tests and integration tests following TDD principles
+
+    Collaborate with QA team to ensure comprehensive test coverage
+
+    Participate in pair programming sessions with team members
+
+    Monitor application performance and implement improvements
+
+    Follow security best practices and address vulnerabilities
+
+    Contribute to continuous integration and deployment processes
